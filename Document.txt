@@ -1,0 +1,4 @@
+# Railway-platform-checker
+1.This project was used to check the details of each platform datails and search for traine details for passengers.
+2.And to known for tickect price for each traine based on traine number.
+3.You can also search for traine destination and arrival details through this project.
